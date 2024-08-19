@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MarqueeText</string>
+    <string name="from_fragment">From Frag</string>
+    <string name="from_activity">From Act</string>
+    <string-array name="rtl_language_codes">
+        <item>ar</item>
+        <item>arc</item>
+        <item>arz</item>
+        <item>ckb</item>
+        <item>dv</item>
+        <item>fa</item>
+        <item>ha</item>
+        <item>he</item>
+        <item>khw</item>
+        <item>ks</item>
+        <item>ps</item>
+        <item>sd</item>
+        <item>ur</item>
+        <item>ur_AF</item>
+        <item>yi</item>
+    </string-array>
+</resources>
